@@ -1,33 +1,33 @@
 {
-  "expo": {
-    "name": "planets_rn",
-    "slug": "planets_rn",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+  "expo" : {
+    "nome" : " planetas_rn " ,
+    "slug" : " planetas_rn " ,
+    "versão" : " 1.0.0 " ,
+    "orientação" : " retrato " ,
+    "icon" : "./assets/icon.png " ,
+    "userInterfaceStyle" : " leve " ,
+    "respingo" : {
+      "imagem" : " ./assets/splash.png " ,
+      "resizeMode" : " contém " ,
+      "backgroundColor" : " #ffffff "
     },
-    "updates": {
-      "fallbackToCacheTimeout": 0
+    "atualizações" : {
+      "fallbackToCacheTimeout" : 0
     },
-    "assetBundlePatterns": [
-      "**/*"
+    "assetBundlePatterns" : [
+      " **/* "
     ],
-    "ios": {
-      "supportsTablet": true
+    "ios" : {
+      "supportsTablet" : true
     },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+    "andróide" : {
+      "adaptiveIcon" : {
+        "foregroundImage" : " ./assets/adaptive-icon.png " ,
+        "backgroundColor" : " #FFFFFF "
       }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "teia" : {
+      "favicon" : " ./assets/favicon.png "
     }
   }
 }
