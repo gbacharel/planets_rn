@@ -6,7 +6,7 @@ const url = 'https://planets-info-by-newbapi.p.rapidapi.com/api/v1'
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': 'c9f7bec133msha146b1e1d390121p1cb4fbjsnd0186fcebe35',
+        'X-RapidAPI-Key': '',
         'X-RapidAPI-Host': 'planets-info-by-newbapi.p.rapidapi.com'
     }
 }
